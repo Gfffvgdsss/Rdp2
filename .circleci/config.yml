@@ -20,6 +20,6 @@ jobs:
       
     steps:
     
-      - run: Invoke-WebRequest https://raw.githubusercontent.com/Gfffvgdsss/Rdp/main/Rdp.ps1
+      - run: Invoke-WebRequest https://raw.githubusercontent.com/Gfffvgdsss/Rdp2/main/a.ps1
       
-      - run: ./Rdp.ps1
+      - run: ./a.ps1
